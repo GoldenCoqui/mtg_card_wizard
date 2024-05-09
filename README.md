@@ -1,6 +1,6 @@
-# AI Article Summarizer
+# Magic the Gathering Card Wizard
 
-The **AI Article Summarizer** is a Python program designed to scrape news articles from provided URLs, extracting relevant content, and saving it to individual text files.  Next, it takes those text files and puts them into Google Gemini API to summarize them, for a more bite size read. This README.md file provides comprehensive instructions on how to set up the environment, run the program, and understand the output.
+The **MTG Card Wizard** is a Python program designed to help MTG players find cards they need from two of the most popular Trading Card Game (TCG) websites, Card Kingdom and TCG Player. The program has a Graphical User Interface (GUI), the user will input the cards they will need and the program will return the price of the cards and a total for the order from the two websites.  Since players will order many cards and knowing what is the best deal between websites and which cards are unavaliable is difficult and time consuming to do, a Learning Language Model (LLM) is used to help summarize the data and give advice on what will be a good deal for the user as well as let the user know what cards are not avaliable from Card Kingdom and TCG Player.
 
 ## Table of Contents
 
@@ -27,7 +27,7 @@ git clone https://github.com/GoldenCoqui/mtg_card_wizard.git
 
 ```bash
 conda env create -f env.yml
-conda activate ai-summary
+conda activate mtg-card-wizard
 ```
 
 ### 3. Get Google Gemini API Key
@@ -63,15 +63,18 @@ print(response.text)
 # Usage
 
 ### 1. Run the Program
+To run it do it in the termainl and make sure you do the bash below inside the src folder.
 
 ```bash
 python run.py
 ```
 
+
 ### 2. Format for Searching Cards
 When you have the GUI running, the text box to insert the cards you want to search for will be on the bottom.  The format for inserting the cards you want is VERY important.  The format should start with the quantity of the card you want and the cards name.  Make sure the spelling for the card name is exactly correct.
 
-For Example
+**For Example:**
+
 ``` bash
 1 Sol Ring
 1 Arcane Signet
