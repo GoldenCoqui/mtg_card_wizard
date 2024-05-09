@@ -2,6 +2,8 @@ import tkinter as tk
 from card_kingdom_finder import cardkingdom_finder
 from tcg_player_finder import tcg_player_finder
 from llm_script import llm_compare 
+from tkinter.ttk import *
+from tkinter import *
 
 # Function to handle button click event
 
@@ -50,6 +52,11 @@ def gui_maker(user_data):
     app = tk.Tk()
     app.title("MTG Card Wizard")
 
+    # Set the application icon using wm_iconbitmap
+    favicon = PhotoImage(file = "image/wizard-hat.ico")
+    app.iconphoto(False, favicon)
+
+
     # Create frames for layout
     input_frame = tk.Frame(app)
     output_frame = tk.Frame(app)
@@ -57,9 +64,6 @@ def gui_maker(user_data):
     input_frame.pack()
     output_frame.pack(fill=tk.X)  # Stretch output frame horizontally
     tcg_frame.pack(fill=tk.X)
-
-
-
 
     # Create a label widget
     label = tk.Label(app, text="Enter your input:")
