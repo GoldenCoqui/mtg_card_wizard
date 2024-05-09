@@ -1,9 +1,11 @@
 import tkinter as tk
 from card_kingdom_finder import cardkingdom_finder
+from tcg_player_finder import tcg_player_finder
+from llm_script import summarize 
 
 # Function to handle button click event
 
-def on_submit(output, input, output_label, cardkingdom_output_label):
+def on_submit(output, input, output_label, cardkingdom_output_label, tcg_label):
     # Do something with the user input, for example, print it
     # Do something with the user input, for example, print it
     
@@ -23,12 +25,39 @@ def on_submit(output, input, output_label, cardkingdom_output_label):
     # Call cardkingdom_finder and update its output label
     with open("../data/card_data/cardkingdom.txt" , 'r') as file:
         cardkingdom_output = file.read()
+    
     cardkingdom_output_label.config(text=f"Card Kingdom Results:\n\n {cardkingdom_output}")
+
+    tcg_player_finder(output)
+
+    # Call tcg_player_finder and update its output label
+    with open("../data/card_data/tcgplayer.txt" , 'r') as file:
+        tcg_output = file.read()
+    
+    tcg_label.config(text=f"TCG Player Results:\n\n {tcg_output}")
 
 
     # print(f"User input: {user_input}")
-    
+    # wizard_advice(summarize(user_input, cardkingdom_output))
 
+    # Summarize results and update summary label
+    # summarize(user_input, "../data/card_data/cardkingdom.txt")
+
+    # with open("../data/llm_output/output.txt", 'r') as file:
+    #   summary_text = file.read()
+    #   summary_label.config(text=f"Summary:\n\n{summary_text}")
+    
+    # print(summary_text)
+
+    # print(summarize(user_input, cardkingdom_output))
+
+
+    
+# Function to display the help message (replace with your desired text)
+# def wizard_advice(llm_message):
+#     message = f"{llm_message}\n"
+#     message += "Click anywhere outside the menu to close it."
+#     tk.messagebox.showinfo(title="MTG Card Wizard Advice", message=message)
 
 
 def gui_maker(user_data):
@@ -41,10 +70,13 @@ def gui_maker(user_data):
     # Create frames for layout
     input_frame = tk.Frame(app)
     output_frame = tk.Frame(app)
-    finder_frame = tk.Frame(app)
+    tcg_frame = tk.Frame(app)
     input_frame.pack()
     output_frame.pack(fill=tk.X)  # Stretch output frame horizontally
-    finder_frame.pack()
+    tcg_frame.pack(fill=tk.X)
+
+
+
 
     # Create a label widget
     label = tk.Label(app, text="Enter your input:")
@@ -57,7 +89,7 @@ def gui_maker(user_data):
 
     # Create a button widget
     button = tk.Button(
-        app, text="Submit", command=lambda: on_submit(user_data, text, output_label, cardkingdom_output_label)
+        input_frame, text="Submit", command=lambda: on_submit(user_data, text, output_label, cardkingdom_output_label, tcg_label)
         )
     button.pack()
 
@@ -69,8 +101,14 @@ def gui_maker(user_data):
     cardkingdom_output_label = tk.Label(output_frame, text="Card Kingdom Results:")
     cardkingdom_output_label.pack(side=tk.LEFT)
 
-    future_finder_label = tk.Label(output_frame, text="Future Finder Output")
-    future_finder_label.pack()
+    tcg_label = tk.Label(output_frame, text="TCG Player Results:")
+    tcg_label.pack(side=tk.LEFT)
+
+    # summary_label = tk.Label(output_frame, text="Summary:")  # New label for summary
+    # summary_label.pack()  # Place the summary label above cardkingdom and future finder labels
+
+
+
 
 
     # Run the application
