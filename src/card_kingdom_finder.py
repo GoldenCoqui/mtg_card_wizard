@@ -31,9 +31,6 @@ def cardkingdom_finder(input_cards):
     order_quantity = prices[0].text
     order_price = prices[1].text
 
-    # print(order_quantity)
-    # print(order_price)
-
     with open(output_file, 'w', encoding="utf-8") as file:
         file.write(f"{order_quantity}\n")
         file.write(f"{order_price}\n")

@@ -6,7 +6,6 @@ from selenium.webdriver.support import expected_conditions as EC
 
 
 def tcg_player_finder(input_cards):
-    # input_cards = "test.txt"
     output_file = "../data/card_data/tcgplayer.txt"
 
     driver = webdriver.Chrome()
@@ -30,7 +29,6 @@ def tcg_player_finder(input_cards):
     wait = WebDriverWait(driver, 10)  # Set explicit wait timeout
     wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, "section.items-breakdown")))
 
-    # info = driver.find_elements(By.CSS_SELECTOR, "section.items-breakdown")
     info_breakdown = driver.find_elements(By.CSS_SELECTOR, "p")
 
 
@@ -47,7 +45,6 @@ def tcg_player_finder(input_cards):
         file.write(f"{shipping}\n\n")
 
 
-    # card_info = driver.find_element(By.CSS_SELECTOR, "div.description")
     cards_name = driver.find_elements(By.CSS_SELECTOR, "p.name")
     cards_price = driver.find_elements(By.CSS_SELECTOR, "p.price")
 
