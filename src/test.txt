@@ -1,0 +1,1581 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta content="text/html; charset=utf-8" http-equiv="content-type"/>
+  <meta content="max-age=29030400,public" http-equiv="Cache-control"/>
+  <meta content="The Card Kingdom Deck Builder will allow you to shop for your deck using one simple form showing all of the cards you need and our prices for each edition/condition available (excluding Oversized variants)." name="description"/>
+  <meta content="Magic The Gathering, magic cards, magic the gathering and purchase, magic singles, magic the gathering pricelist, magic the gathering card lists, magic the gathering deck ideas, magic the gathering cards, magic the gathering cards sell, magic the gathering card prices, wizards of the coast, magic the gathering singles, magic the gathering decks, magic the gathering cardlist, cheap magic singles." name="keywords"/>
+  <script src="/cdn-cgi/apps/head/eP6FRgbMdwKe8bDs6MHi5IZZuxo.js">
+  </script>
+  <link href="https://www.cardkingdom.com/builder" rel="canonical"/>
+  <meta content="summary_large_image" name="twitter:card"/>
+  <meta content="The Card Kingdom Deck Builder will allow you to shop for your deck using one simple form showing all of the cards you need and our prices for each edition/condition available (excluding Oversized variants)." name="twitter:description">
+   <meta content="MTG Deckbuilder| Find Your Cards | Card Kingdom" name="twitter:title">
+    <meta content="" name="twitter:image">
+     <meta content="Card Kingdom" property="og:site_name">
+      <meta content="MTG Deckbuilder| Find Your Cards | Card Kingdom " property="og:title">
+       <meta content="The Card Kingdom Deck Builder will allow you to shop for your deck using one simple form showing all of the cards you need and our prices for each edition/condition available (excluding Oversized variants)." property="og:description"/>
+       <meta content="https://www.cardkingdom.com/builder" property="og:url"/>
+       <meta content="en_US" property="og:locale"/>
+       <meta content="product" property="og:type"/>
+       <meta content="en" http-equiv="Content-Language"/>
+       <meta content="" property="fb:admins">
+        <meta content="https://www.facebook.com/*" property="article:publisher"/>
+        <link href="”*”" rel="”publisher”"/>
+        <meta content="index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large" name="robots"/>
+        <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+        <meta content="width=device-width, initial-scale=1" name="viewport"/>
+        <meta content="" name="author"/>
+        <title>
+         MTG Deckbuilder | Find Your Cards | Card Kingdom
+        </title>
+        <link href="/favicon.ico" rel="icon"/>
+        <link href="https://fonts.googleapis.com" rel="preconnect"/>
+        <link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
+        <link href="https://fonts.googleapis.com/css2?family=Roboto+Flex:opsz,wght@8..144,300;8..144,400;8..144,500;8..144,600;8..144,700&amp;display=swap" rel="stylesheet"/>
+        <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&amp;display=swap" rel="stylesheet"/>
+        <link as="style" href="/local/css/bootstrap5-custom.css?id=6542d1870d7cc6fc57d5bd5a041c6243" rel="preload" type="text/css"/>
+        <link as="style" href="/local/css/basic-page.css?id=f3d1f5e9f294d9516b54f4ae38655313" rel="preload" type="text/css"/>
+        <link as="style" href="https://d3lcg6lq93x4d9.cloudfront.net/cms/css/ckcms.css?v=8n4i440" rel="preload" type="text/css"/>
+        <script>
+         window.__ENV__ = '{}';
+    window.__INITIAL_STATE__ = JSON.stringify({});
+    const ALERT_MESSAGE = "";
+    const ASSETS_HOST = "";
+    const API_HOST = "https://api.cardkingdom.com/api";
+    const CMS_HOST = "https://d3lcg6lq93x4d9.cloudfront.net";
+    const API_SERVICE_HOST = "https://api.cardkingdom.com"; /* https://api.cardkingdom.com/api";  MARTI DEV TEMP*/
+    var ck = {};
+    ck.route = window.location.pathname;
+    ck.userEmail = '';
+    ck.orderId = '';
+    ck.autoCompleteRoute = '/local/data/magic.json';
+    ck.version = '8n4i440';
+    ck.trackerDelay = 5000;//allow pages to override timeout.
+            ck.sitewideCountdown = parseInt(-9711967);
+        </script>
+        <style>
+         .fixheight {
+            height: auto;
+        }
+        </style>
+        <script>
+         (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-NDPBJW');
+        </script>
+        <script>
+         setTimeout(function(){
+        (function(w,d,t,r,u){var f,n,i;w[u]=w[u]||[],f=function(){var o={ti:"137010611"};o.q=w[u],w[u]=new UET(o),w[u].push("pageLoad")},n=d.createElement(t),n.src=r,n.async=1,n.onload=n.onreadystatechange=function(){var s=this.readyState;s&&s!=="loaded"&&s!=="complete"||(f(),n.onload=n.onreadystatechange=null)},i=d.getElementsByTagName(t)[0],i.parentNode.insertBefore(n,i)})(window,document,"script","https://bat.bing.com/bat.js","uetq");
+    },(ck.trackerDelay || 0));
+        </script>
+        <script>
+         setTimeout(function(){
+        !function(f,b,e,v,n,t,s)
+        {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+            n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+            if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+            n.queue=[];t=b.createElement(e);t.async=!0;
+            t.src=v;s=b.getElementsByTagName(e)[0];
+            s.parentNode.insertBefore(t,s)}(window,document,'script',
+            'https://connect.facebook.net/en_US/fbevents.js');
+        fbq('init', '325102331546565');
+        fbq('track', 'PageView');
+    },(ck.trackerDelay || 0));
+        </script>
+        <noscript>
+         <img height="1" src="https://www.facebook.com/tr?id=325102331546565&amp;ev=PageView
+    &amp;noscript=1" width="1"/>
+        </noscript>
+        <script>
+         (function(h,o,u,n,d) {
+        h=h[d]=h[d]||{q:[],onReady:function(c){h.q.push(c)}}
+        d=o.createElement(u);d.async=1;d.src=n
+        n=o.getElementsByTagName(u)[0];n.parentNode.insertBefore(d,n)
+    })(window,document,'script','https://www.datadoghq-browser-agent.com/datadog-rum-v4.js','DD_RUM')
+    DD_RUM.onReady(function() {
+        DD_RUM.init({
+            clientToken: 'pub2e0f9600fa4e22cc493a94772c5ba029',
+            applicationId: '8b83b43a-93f8-4cba-bb43-e4e3a7eba031',
+            site: 'datadoghq.com',
+            service:'card-kingdom',
+            // Specify a version number to identify the deployed version of your application in Datadog
+            // version: '1.0.0',
+            sampleRate: 15,
+            replaySampleRate: 10,
+            trackInteractions: true,
+            trackFrustrations: true,
+            defaultPrivacyLevel: 'mask-user-input'
+        });
+
+        DD_RUM.startSessionReplayRecording();
+    })
+        </script>
+        <script>
+         window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+        </script>
+        <script src="/local/js/neojs/helpers/cookies.js?id=0fcd23cd42d00367d1e43cdbc1b250f7">
+        </script>
+        <script>
+         if( ck.getCookie('checkoutInit')) {
+        ck.setCookie('checkoutInit',0,-1);
+    }
+        </script>
+        <script src="/local/js/jquery.min.js?id=7c14a783dfeb3d238ccd3edd840d82ee">
+        </script>
+        <script crossorigin="anonymous" src="https://kit.fontawesome.com/31721eff50.js">
+        </script>
+       </meta>
+      </meta>
+     </meta>
+    </meta>
+   </meta>
+  </meta>
+ </head>
+ <body class="">
+  <noscript>
+   <iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-NDPBJW" style="display:none;visibility:hidden" width="0">
+   </iframe>
+  </noscript>
+  <div id="appWrapper">
+   <the-notification>
+   </the-notification>
+   <div class="header navbar navbar-expand-md vstack py-0 w-100" id="header" role="banner">
+    <div class="w-100 bg-ck-blue">
+     <div class="header-nav hstack w-100 page-1920 text-white">
+      <a aria-label="Card Kingdom Home Page Link" class="navbar-brand logo-wrapper me-auto d-flex" data-cktag="Logo" href="/">
+       <img alt="Card Kingdom Logo" class="logo-image align-self-center" src="/local/images/ck-header/ck-header-logo.png"/>
+       <img alt="Card Kingdom Logo Title for mobile" class="mobile-logo-title align-self-center ps-1 d-block d-sm-none" src="/local/images/ck-header/ck-xs-header-title.png"/>
+       <img alt="Card Kingdom Logo Title" class="logo-title align-self-center ps-2 d-none d-sm-block" src="/local/images/ck-header/ck-header-title.png"/>
+      </a>
+      <basic-search cartmode="">
+      </basic-search>
+      <div class="header-profile delayed-display btn-group d-none d-md-flex flex-row mx-3" id="header-account">
+       <div>
+        <a aria-label="Customer Login Link" class="delayed-display d-none d-md-flex" data-cktag="Login" href="/customer_login" id="header-account-link">
+         <span class="text-white fs-6 pe-2 align-self-center d-none d-lg-block">
+          SIGN IN
+         </span>
+         <div class="icon-placeholder">
+          <img alt="Profile Icon" class="fs-2 align-self-center icon" height="24" src="/local/images/fontawesome/circle-user-solid.svg" width="24"/>
+          <img alt="Profile Icon" class="fs-2 align-self-center icon-hover" height="24" src="/local/images/fontawesome/circle-user-solid-primary-light-blue.svg" width="24"/>
+         </div>
+        </a>
+       </div>
+       <div class="ms-3">
+        <a aria-label="Customer Wishlist" class="hover-wrapper" data-cktag="Login" href="/customer_login">
+         <div class="icon-placeholder">
+          <i alt="Wishlist Icon" class="fa-solid fa-heart fs-2 align-self-center icon" height="24" width="24">
+          </i>
+          <i alt="Wishlist Icon" class="fa-solid fa-heart fs-2 align-self-center icon-hover" height="24" width="24">
+          </i>
+         </div>
+        </a>
+       </div>
+      </div>
+      <div class="delayed-display d-none d-md-flex h-50">
+       <div class="vr align-self-center h-100">
+       </div>
+      </div>
+      <div class="header-cart-wrapper">
+       <header-cart-info>
+       </header-cart-info>
+      </div>
+      <button aria-controls="offcanvasNavbar" aria-label="Toggle Mobile Main Menu" class="mobile-menu-icon align-self-center d-md-none" data-bs-target="#offcanvasNavbar" data-bs-toggle="offcanvas">
+       <img alt="Toggle Menu Icon" class="fs-2 align-self-center" height="24" src="/local/images/fontawesome/bars-solid.svg" width="21"/>
+      </button>
+     </div>
+    </div>
+    <div class="w-100 bg-ck-blue-gradient">
+     <div class="header-menu-row w-100 page-1920">
+      <div class="d-none d-md-flex flex-row align-items-center justify-content-start text-white h-100" id="desktop-menu">
+       <button class="desktop-menu-button" data-selector="#offcanvasSubmenu1" id="submenu1Button">
+        MAGIC: THE GATHERING
+       </button>
+       <button class="desktop-menu-button" data-selector="#offcanvasSubmenu2" id="submenu2Button">
+        SUPPLIES
+       </button>
+       <button class="desktop-menu-button" data-selector="#offcanvasSubmenu3" id="submenu3Button">
+        LEARN &amp; COMMUNITY
+       </button>
+       <a class="desktop-menu-callout d-none d-lg-inline-block ms-auto offcanvasNavbarLabel fs-5 text-white text-center rounded-pill font-ck-heading fw-semibold" href="/purchasing/how_to_sell">
+        SELL
+US YOUR CARDS!
+       </a>
+      </div>
+      <div class="main-menu-wrapper container-fluid text-black" id="mobile-menu">
+       <div class="offcanvas offcanvas-end w-100" id="offcanvasNavbar" tabindex="-1">
+        <div class="offcanvas-header d-flex align-items-center bg-ck-blue text-white px-3">
+         <div class="navbar-brand logo-wrapper me-auto d-flex" href="/">
+          <img alt="Card Kingdom Logo" class="logo-image align-self-center" src="/local/images/ck-header/ck-header-logo.png">
+           <img alt="Card Kingdom Logo Title" class="mobile-logo-title align-self-center ps-1 d-block d-sm-none" src="/local/images/ck-header/ck-xs-header-title.png">
+            <img alt="Card Kingdom Logo Title" class="logo-title align-self-center ps-2 d-none d-sm-block" src="/local/images/ck-header/ck-header-title.png">
+            </img>
+           </img>
+          </img>
+         </div>
+         <i aria-label="Close" class="fa-solid fa-xmark fs-2" data-bs-dismiss="offcanvas">
+         </i>
+        </div>
+        <div class="offcanvas-body">
+         <ul class="mainmenu-top-level-items navbar-nav justify-content-end flex-grow-1">
+          <li aria-controls="offcanvasSubmenu0Navbar" class="submenu-toggle mobile-menu-only" data-bs-target="#offcanvasSubmenu0" data-bs-toggle="offcanvas" data-menu="menu-myaccount">
+           <span>
+            MY ACCOUNT
+           </span>
+           <i class="fa-solid fa-angle-right">
+           </i>
+          </li>
+          <li aria-controls="offcanvasSubmenu1Navbar" class="submenu-toggle" data-bs-target="#offcanvasSubmenu1" data-bs-toggle="offcanvas" data-menu="menu-mtg">
+           <span>
+            MAGIC: THE GATHERING
+           </span>
+           <i class="fa-solid fa-angle-right">
+           </i>
+          </li>
+          <li aria-controls="offcanvasSubmenu2Navbar" class="submenu-toggle" data-bs-target="#offcanvasSubmenu2" data-bs-toggle="offcanvas" data-menu="menu-supplies">
+           <span>
+            SUPPLIES
+           </span>
+           <i class="fa-solid fa-angle-right">
+           </i>
+          </li>
+          <li aria-controls="offcanvasSubmenu3Navbar" class="submenu-toggle" data-bs-target="#offcanvasSubmenu3" data-bs-toggle="offcanvas" data-menu="menu-learn-community">
+           <span>
+            LEARN &amp; COMMUNITY
+           </span>
+           <i class="fa-solid fa-angle-right">
+           </i>
+          </li>
+          <li aria-controls="offcanvasSubmenu7Navbar" class="submenu-toggle mobile-menu-only" data-bs-target="#offcanvasSubmenu7" data-bs-toggle="offcanvas" data-menu="menu-shop-mtg">
+           <span>
+            SELL US YOUR CARDS
+           </span>
+           <i class="fa-solid fa-angle-right">
+           </i>
+          </li>
+          <li aria-controls="offcanvasSubmenu5Navbar" class="submenu-toggle mobile-menu-only" data-bs-target="#offcanvasSubmenu5" data-bs-toggle="offcanvas" data-menu="menu-shop-mtg">
+           <span>
+            RETAIL LOCATIONS
+           </span>
+           <i class="fa-solid fa-angle-right">
+           </i>
+          </li>
+          <li aria-controls="offcanvasSubmenu6Navbar" class="submenu-toggle mobile-menu-only border-0" data-bs-target="#offcanvasSubmenu6" data-bs-toggle="offcanvas" data-menu="menu-shop-mtg">
+           <span>
+            CUSTOMER SERVICE
+           </span>
+           <i class="fa-solid fa-angle-right">
+           </i>
+          </li>
+          <li class="submenu-link mobile-menu-only" data-menu="menu-email-signup">
+           <a href="https://cardkingdom.attn.tv/p/Klu/landing-page">
+            Sign Up For Emails
+           </a>
+          </li>
+          <li class="submenu-link mobile-menu-only" data-menu="menu-about-us">
+           <a href="/static/about">
+            About Us
+           </a>
+          </li>
+          <li class="submenu-link mobile-menu-only" data-menu="menu-careers">
+           <a href="https://workforcenow.adp.com/jobs/apply/posting.html?client=CKCM&amp;ccId=19000101_000001&amp;type=MP&amp;lang=en_US">
+            Careers
+           </a>
+          </li>
+         </ul>
+        </div>
+       </div>
+      </div>
+      <div class="submenu offcanvas offcanvas-end w-100" id="offcanvasSubmenu0" tabindex="-1">
+       <div class="offcanvas-header d-flex align-items-center bg-ck-blue text-white px-3">
+        <h5 aria-controls="offcanvasNavbar" class="submenu-title my-0" data-bs-target="#offcanvasNavbar" data-bs-toggle="offcanvas">
+         <i class="fa-solid fa-chevron-left">
+         </i>
+         BACK
+        </h5>
+        <i aria-label="Close" class="close-submenu fa-solid fa-xmark fs-2" data-bs-dismiss="offcanvas">
+        </i>
+       </div>
+       <div class="" id="submenu0">
+        <h2 class="submenu-callout-link" id="submenu0-item0-header">
+         MY ACCOUNT
+        </h2>
+        <div aria-labelledby="submenu0-item0-header" class="px-3" id="submenu0-item0-content">
+         <a class="submenu-item-link" href="/customer_login">
+          Sign In
+         </a>
+         <a class="submenu-item-link" href="/myaccount/wishlist">
+          Wishlist
+         </a>
+         <a class="submenu-item-link" href="https://cardkingdom.freshdesk.com/support/home" target="_blank">
+          Help
+         </a>
+        </div>
+       </div>
+      </div>
+      <div class="submenu desktop-menu-content offcanvas offcanvas-end w-100" id="offcanvasSubmenu1" tabindex="-1">
+       <div class="offcanvas-header d-flex align-items-center bg-ck-blue text-white px-3">
+        <h5 aria-controls="offcanvasNavbar" class="submenu-title my-0" data-bs-target="#offcanvasNavbar" data-bs-toggle="offcanvas">
+         <i class="fa-solid fa-chevron-left">
+         </i>
+         BACK
+        </h5>
+        <i aria-label="Close" class="close-submenu fa-solid fa-xmark fs-2" data-bs-dismiss="offcanvas">
+        </i>
+       </div>
+       <div class="desktop-menu-header bg-ck-blue text-white lh-4 fw-bold text-center d-none d-md-block font-ck-heading fs-ck-2rem">
+        MAGIC: THE GATHERING
+       </div>
+       <div class="mega-menu accordion accordion-flush" id="submenu1">
+        <div class="submenu-column">
+         <div class="accordion-item submenu-callout">
+          <h2 class="desktop-submenu-header d-none d-md-block">
+           SHOP ALL MTG
+          </h2>
+          <div class="d-none d-md-block">
+           <a class="submenu-item-link" href="/catalog/search?search=header&amp;filter%5Bname%5D=">
+            Shop All Singles
+           </a>
+           <a class="submenu-item-link" href="/catalog/search?filter[tab]=product&amp;search=header&amp;filter%5Bname%5D=">
+            Shop All Sealed
+           </a>
+           <a class="submenu-item-link" href="/catalog/magic_the_gathering/search">
+            Advanced Search
+           </a>
+           <a class="submenu-item-link" href="/builder">
+            Deck Builder
+           </a>
+           <a class="submenu-item-link" href="/catalog/magic_the_gathering/by_az">
+            MTG Editions A-Z
+           </a>
+          </div>
+         </div>
+         <div class="accordion-item">
+          <h2 class="accordion-header d-md-none" id="submenu1-item2-header">
+           <button aria-controls="submenu1-item2-content" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#submenu1-item2-content" data-bs-toggle="collapse" type="button">
+            LATEST EDITIONS
+           </button>
+          </h2>
+          <h2 class="desktop-submenu-header d-none d-md-block">
+           LATEST EDITIONS
+          </h2>
+          <div aria-labelledby="submenu1-item2-header" class="accordion-collapse collapse" data-bs-parent="#submenu1" id="submenu1-item2-content">
+           <div class="accordion-body">
+            <a class="submenu-item-link" href="/landing/mtg-outlaws-of-thunder-junction-cards">
+             Outlaws of Thunder Junction
+            </a>
+            <a class="submenu-item-link" href="/landing/mtg-universes-beyond-fallout-cards">
+             Universes Beyond: Fallout
+            </a>
+            <a class="submenu-item-link" href="/landing/mtg-murders-at-karlov-manor-cards">
+             Ravnica: Clue Edition
+            </a>
+            <a class="submenu-item-link" href="/landing/mtg-murders-at-karlov-manor-cards">
+             Murders at Karlov Manor
+            </a>
+            <a class="submenu-item-link" href="/landing/mtg-ravnica-remastered-cards">
+             Ravnica Remastered
+            </a>
+            <a class="submenu-item-link" href="/landing/mtg-lost-caverns-of-ixalan-cards">
+             The Lost Caverns of Ixalan
+            </a>
+           </div>
+          </div>
+         </div>
+         <div class="accordion-item">
+          <h2 class="accordion-header d-md-none" id="submenu1-item3-header">
+           <button aria-controls="submenu1-item3-content" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#submenu1-item3-content" data-bs-toggle="collapse" type="button">
+            FORMATS
+           </button>
+          </h2>
+          <h2 class="desktop-submenu-header d-none d-md-block">
+           FORMATS
+          </h2>
+          <div aria-labelledby="submenu1-item3-header" class="accordion-collapse collapse" data-bs-parent="#submenu1" id="submenu1-item3-content">
+           <div class="accordion-body">
+            <a class="submenu-item-link" href="/landing/mtg-commander-format">
+             Commander
+            </a>
+            <a class="submenu-item-link" href="/mtg-format/standard">
+             Standard
+            </a>
+            <a class="submenu-item-link" href="/mtg-format/modern">
+             Modern
+            </a>
+            <a class="submenu-item-link" href="/mtg-format/pioneer">
+             Pioneer
+            </a>
+           </div>
+          </div>
+         </div>
+        </div>
+        <div class="submenu-column">
+         <div class="accordion-item">
+          <h2 class="accordion-header d-md-none" id="submenu1-item4-header">
+           <button aria-controls="submenu1-item4-content" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#submenu1-item4-content" data-bs-toggle="collapse" type="button">
+            CK EXCLUSIVES
+           </button>
+          </h2>
+          <h2 class="submenu-header-link d-none d-md-block">
+           <a class="submenu-callout-link" href="/landing/ck-exclusives">
+            CK EXCLUSIVES
+            <i class="fa-solid fa-arrow-right">
+            </i>
+           </a>
+          </h2>
+          <div aria-labelledby="submenu1-item4-header" class="accordion-collapse collapse" data-bs-parent="#submenu1" id="submenu1-item4-content">
+           <div class="accordion-body">
+            <a class="submenu-item-link d-md-none" href="/landing/ck-exclusives">
+             CK Exclusives
+            </a>
+            <a class="submenu-item-link" href="/ck-exclusives/battle-decks">
+             Battle Decks
+            </a>
+            <a class="submenu-item-link" href="/gear/boxed-sets">
+             Boxed Sets
+            </a>
+            <a class="submenu-item-link" href="/ck-exclusives/commander-collection">
+             Commander Collection
+            </a>
+            <a class="submenu-item-link" href="/ck-exclusives/creature-feature">
+             Creature Feature
+            </a>
+            <a class="submenu-item-link" href="/mtg-supplies/pure-bulk">
+             Pure Bulk
+            </a>
+            <a class="submenu-item-link" href="/ck-exclusives/rookie-decks">
+             Rookie Decks
+            </a>
+            <a class="submenu-item-link" href="/ck-exclusives/card-kingdom-tokens">
+             Tokens
+            </a>
+           </div>
+          </div>
+         </div>
+         <div class="accordion-item">
+          <h2 class="accordion-header d-md-none" id="submenu1-item5-header">
+           <button aria-controls="submenu1-item5-content" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#submenu1-item5-content" data-bs-toggle="collapse" type="button">
+            CERTIFIED GRADED
+           </button>
+          </h2>
+          <h2 class="submenu-header-link d-none d-md-block">
+           <a class="submenu-callout-link" href="/mtg/graded-magic">
+            CERTIFIED GRADED
+            <i class="fa-solid fa-arrow-right">
+            </i>
+           </a>
+          </h2>
+          <div aria-labelledby="submenu1-item5-header" class="accordion-collapse collapse" data-bs-parent="#submenu1" id="submenu1-item5-content">
+           <div class="accordion-body">
+            <a class="submenu-item-link d-md-none" href="/mtg/graded-magic">
+             All Certified Graded
+            </a>
+            <a class="submenu-item-link" href="/mtg/graded-magic/alpha">
+             Alpha
+            </a>
+            <a class="submenu-item-link" href="/mtg/graded-magic/beta">
+             Beta
+            </a>
+            <a class="submenu-item-link" href="/mtg/graded-magic/unlimited">
+             Unlimited
+            </a>
+            <a class="submenu-item-link" href="/mtg/graded-magic/arabian-nights">
+             Arabian Nights
+            </a>
+            <a class="submenu-item-link" href="/mtg/graded-magic/antiquities">
+             Antiquities
+            </a>
+            <a class="submenu-item-link" href="/mtg/graded-magic/legends">
+             Legends
+            </a>
+            <a class="submenu-item-link" href="/mtg/graded-magic/the-dark">
+             The Dark
+            </a>
+           </div>
+          </div>
+         </div>
+        </div>
+        <div class="submenu-column">
+         <div class="accordion-item">
+          <h2 class="accordion-header d-md-none" id="submenu1-item6-header">
+           <button aria-controls="submenu1-item6-content" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#submenu1-item6-content" data-bs-toggle="collapse" type="button">
+            SELL US YOUR CARDS
+           </button>
+          </h2>
+          <h2 class="desktop-submenu-header d-none d-md-block">
+           SELL US YOUR CARDS
+          </h2>
+          <div aria-labelledby="submenu1-item6-header" class="accordion-collapse collapse" data-bs-parent="#submenu1" id="submenu1-item6-content">
+           <div class="accordion-body">
+            <a class="submenu-item-link" href="/purchasing/how_to_sell">
+             How Selling To Us Works
+            </a>
+            <a class="submenu-item-link" href="/purchasing/mtg_singles">
+             Sell Us Your Singles/Foils
+            </a>
+            <a class="submenu-item-link" href="/purchasing/mtg_sealed">
+             Sell Us Your Sealed/Sets
+            </a>
+            <a class="submenu-item-link" href="/purchasing/sell_collection">
+             Sell Us Your MTG Collection
+            </a>
+            <a class="submenu-item-link" href="/purchasing/mtg_bulk">
+             Sell Us Your MTG in Bulk
+            </a>
+            <a class="submenu-item-link" href="/static/csvImport">
+             Import from CSV
+            </a>
+           </div>
+          </div>
+         </div>
+         <div class="accordion-item">
+          <h2 class="accordion-header d-md-none" id="submenu1-item7-header">
+           <button aria-controls="submenu1-item7-content" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#submenu1-item7-content" data-bs-toggle="collapse" type="button">
+            DEALS
+           </button>
+          </h2>
+          <h2 class="desktop-submenu-header d-none d-md-block">
+           DEALS
+          </h2>
+          <div aria-labelledby="submenu1-item7-header" class="accordion-collapse collapse" data-bs-parent="#submenu1" id="submenu1-item7-content">
+           <div class="accordion-body">
+            <a class="submenu-item-link" href="/deals">
+             Today's Deals
+            </a>
+           </div>
+          </div>
+         </div>
+         <div class="accordion-item">
+          <h2 class="accordion-header d-md-none" id="submenu1-item8-header">
+           <button aria-controls="submenu1-item8-content" aria-expanded="false" class="accordion-button collapsed border-0" data-bs-target="#submenu1-item8-content" data-bs-toggle="collapse" type="button">
+            MORE
+           </button>
+          </h2>
+          <h2 class="desktop-submenu-header d-none d-md-block">
+           MORE
+          </h2>
+          <div aria-labelledby="submenu1-item8-header" class="accordion-collapse collapse" data-bs-parent="#submenu1" id="submenu1-item8-content">
+           <div class="accordion-body">
+            <a class="submenu-item-link" href="/mtg/complete-sets">
+             Complete Sets
+            </a>
+            <a class="submenu-item-link" href="/landing/tcc-campus-store">
+             Prof's Picks
+            </a>
+            <a class="submenu-item-link" href="/landing/elderdragonsocialclub">
+             Elder Dragon Social Club
+            </a>
+           </div>
+          </div>
+         </div>
+        </div>
+        <div class="submenu-column promo-column">
+         <div class="submenu-link d-md-none">
+          <a href="/catalog/magic_the_gathering/search">
+           Advanced
+Search
+          </a>
+         </div>
+         <div class="submenu-link d-md-none">
+          <a href="/builder">
+           Deck Builder
+          </a>
+         </div>
+         <div class="submenu-link d-md-none">
+          <a href="/catalog/magic_the_gathering/by_az">
+           MTG Editions
+A-Z
+          </a>
+         </div>
+         <div class="submenu-promospot d-md-none d-flex">
+          <img alt="Murders at Karlov Manor Play Booster Box" class="submenu-promospot-image" height="144" loading="lazy" src="/images/magic-the-gathering/murders-at-karlov-manor/murders-at-karlov-manor-play-booster-box-22133.jpg" width="144"/>
+          <div class="submenu-promospot-right flex-grow-1 bg-light text-center">
+           <div class="submenu-promospot-title text-primary">
+            Murders at Karlov Manor
+            <br/>
+            Play Booster Box
+           </div>
+           <a class="submenu-callout-button badge rounded-pill text-white px-4 py-1 border border-white border-1 d-inline-block mb-2" href="/mtg-sealed/murders-at-karlov-manor-play-booster-box">
+            Shop Now
+           </a>
+          </div>
+         </div>
+        </div>
+        <div class="desktop-submenu-promospot text-black d-none d-lg-flex flex-column mb-3">
+         <div class="promospot-block promoSpot">
+          <a data-cktag="mega-menu mtg block1 item1" href="/deals">
+           <img alt="Shop deals at Card Kingdom. New products every week!" class="img-fluid" loading="lazy" src="https://images.contentstack.io/v3/assets/blt7f520a21793912be/blt1dd1bbc85fb3c24f/CK-Deals-Promo-Spot-MegaNav.jpg"/>
+          </a>
+         </div>
+         <div class="promospot-block promoSpot my-3">
+          <div class="mega-menu-promo-button d-none d-md-block rounded-pill">
+           <a data-cktag="mega-menu mtg block2 button1" href="/catalog/magic_the_gathering/search">
+            ADVANCED SEARCH
+           </a>
+          </div>
+          <div class="mega-menu-promo-button d-none d-md-block rounded-pill">
+           <a data-cktag="mega-menu mtg block2 button2" href="/builder">
+            DECK BUILDER
+           </a>
+          </div>
+          <div class="mega-menu-promo-button d-none d-md-block rounded-pill">
+           <a data-cktag="mega-menu mtg block2 button3" href="/catalog/magic_the_gathering/by_az">
+            MTG EDITIONS A-Z
+           </a>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="submenu desktop-menu-content offcanvas offcanvas-end w-100" id="offcanvasSubmenu2" tabindex="-1">
+       <div class="offcanvas-header d-flex align-items-center bg-ck-blue text-white px-3">
+        <h5 aria-controls="offcanvasNavbar" class="submenu-title my-0" data-bs-target="#offcanvasNavbar" data-bs-toggle="offcanvas">
+         <i class="fa-solid fa-chevron-left">
+         </i>
+         BACK
+        </h5>
+        <i aria-label="Close" class="close-submenu fa-solid fa-xmark fs-2" data-bs-dismiss="offcanvas">
+        </i>
+       </div>
+       <div class="desktop-menu-header bg-ck-blue text-white lh-4 fw-bold text-center d-none d-md-block font-ck-heading fs-ck-2rem">
+        SUPPLIES
+       </div>
+       <div class="mega-menu accordion accordion-flush" id="submenu2">
+        <div class="submenu-column">
+         <div class="submenu-callout">
+          <h2 class="submenu-header-link">
+           <a class="submenu-callout-link" href="/landing/mtg-supplies">
+            SHOP ALL SUPPLIES
+            <i class="fa-solid fa-arrow-right">
+            </i>
+           </a>
+          </h2>
+         </div>
+         <div class="accordion-item">
+          <h2 class="accordion-header d-md-none" id="submenu2-item1-header">
+           <button aria-controls="fsubmenu2-item1-content" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#submenu2-item1-content" data-bs-toggle="collapse" type="button">
+            CARD BINDERS
+           </button>
+          </h2>
+          <h2 class="submenu-header-link d-none d-md-block mt-4">
+           <a class="submenu-callout-link" href="/gear/albums-pages">
+            CARD BINDERS
+            <i class="fa-solid fa-arrow-right">
+            </i>
+           </a>
+          </h2>
+          <div aria-labelledby="submenu2-item1-header" class="accordion-collapse collapse" data-bs-parent="#submenu2" id="submenu2-item1-content">
+           <div class="accordion-body">
+            <a class="submenu-item-link" href="/mtg-supplies/card-binders/binders">
+             Binders
+            </a>
+            <a class="submenu-item-link" href="/mtg-supplies/card-binders/binder-pages">
+             Binder Pages
+            </a>
+           </div>
+          </div>
+         </div>
+         <div class="accordion-item">
+          <h2 class="accordion-header d-md-none" id="submenu2-item2-header">
+           <button aria-controls="fsubmenu2-item2-content" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#submenu2-item2-content" data-bs-toggle="collapse" type="button">
+            CARD SLEEVES
+           </button>
+          </h2>
+          <h2 class="submenu-header-link d-none d-md-block">
+           <a class="submenu-callout-link mt-3" href="/gear/card-sleeves">
+            CARD SLEEVES
+            <i class="fa-solid fa-arrow-right">
+            </i>
+           </a>
+          </h2>
+          <div aria-labelledby="submenu2-item2-header" class="accordion-collapse collapse" data-bs-parent="#submenu2" id="submenu2-item2-content">
+           <div class="accordion-body">
+            <a class="submenu-item-link d-md-none" href="/gear/card-sleeves">
+             All Card Sleeves
+            </a>
+            <a class="submenu-item-link" href="/mfg/dragon-shield/card-sleeves">
+             Dragon
+Shield
+            </a>
+            <a class="submenu-item-link" href="/mfg/kmc/card-sleeves">
+             KMC
+            </a>
+            <a class="submenu-item-link" href="/mfg/ultimate-guard/card-sleeves">
+             Ultimate
+Guard
+            </a>
+            <a class="submenu-item-link" href="/mfg/ultra-pro/card-sleeves">
+             Ultra Pro
+            </a>
+            <a class="submenu-item-link" href="/mfg/gamegenic/card-sleeves">
+             Gamegenic
+            </a>
+           </div>
+          </div>
+         </div>
+        </div>
+        <div class="submenu-column">
+         <div class="accordion-item">
+          <h2 class="accordion-header d-md-none" id="submenu2-item3-header">
+           <button aria-controls="fsubmenu2-item3-content" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#submenu2-item3-content" data-bs-toggle="collapse" type="button">
+            ACCESSORIES
+           </button>
+          </h2>
+          <h2 class="submenu-header-link d-none d-md-block">
+           <a class="submenu-callout-link mt-3" href="/gear/stones-counters-dice">
+            ACCESSORIES
+            <i class="fa-solid fa-arrow-right">
+            </i>
+           </a>
+          </h2>
+          <div aria-labelledby="submenu2-item3-header" class="accordion-collapse collapse" data-bs-parent="#submenu2" id="submenu2-item3-content">
+           <div class="accordion-body">
+            <a class="submenu-item-link d-md-none" href="/gear/stones-counters-dice">
+             All Counters &amp;
+Dice
+            </a>
+            <a class="submenu-item-link" href="/mtg-supplies/stones-counters-dice/dice">
+             Dice
+            </a>
+            <a class="submenu-item-link" href="/mtg-supplies/stones-counters-dice/dice-bags">
+             Dice
+Bags
+            </a>
+            <a class="submenu-item-link" href="/mtg-supplies/stones-counters-dice/notepads-ledgers">
+             Notepads
+&amp; Ledgers
+            </a>
+            <a class="submenu-item-link" href="/mtg-supplies/stones-counters-dice/spin-downs">
+             Spin
+Downs
+            </a>
+           </div>
+          </div>
+         </div>
+         <div class="accordion-item">
+          <h2 class="accordion-header d-md-none" id="submenu2-item4-header">
+           <button aria-controls="fsubmenu2-item4-content" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#submenu2-item4-content" data-bs-toggle="collapse" type="button">
+            DECK BOXES
+           </button>
+          </h2>
+          <h2 class="submenu-header-link d-none d-md-block">
+           <a class="submenu-callout-link mt-3" href="/gear/deck-boxes">
+            DECK BOXES
+            <i class="fa-solid fa-arrow-right">
+            </i>
+           </a>
+          </h2>
+          <div aria-labelledby="submenu2-item4-header" class="accordion-collapse collapse" data-bs-parent="#submenu2" id="submenu2-item4-content">
+           <div class="accordion-body">
+            <a class="submenu-item-link d-md-none" href="/gear/deck-boxes">
+             All Deck Boxes
+            </a>
+            <a class="submenu-item-link" href="/mfg/card-kingdom/deck-boxes">
+             Card Kingdom
+            </a>
+            <a class="submenu-item-link" href="/mfg/boxgods/deck-boxes">
+             Box Gods
+            </a>
+            <a class="submenu-item-link" href="/mfg/dragon-shield/deck-boxes">
+             Dragon Shield
+            </a>
+            <a class="submenu-item-link" href="/mfg/gamegenic/deck-boxes">
+             Gamegenic
+            </a>
+            <a class="submenu-item-link" href="/mfg/kmc/deck-boxes">
+             KMC
+            </a>
+            <a class="submenu-item-link" href="/mfg/quiver-time/deck-boxes">
+             Quiver Time
+            </a>
+            <a class="submenu-item-link" href="/mfg/ultra-pro/deck-boxes">
+             Ultra Pro
+            </a>
+            <a class="submenu-item-link" href="/mfg/ultimate-guard/deck-boxes">
+             Ultimate
+Guard
+            </a>
+           </div>
+          </div>
+         </div>
+        </div>
+        <div class="submenu-column">
+         <div class="accordion-item">
+          <h2 class="accordion-header d-md-none" id="submenu2-item5-header">
+           <button aria-controls="fsubmenu2-item5-content" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#submenu2-item5-content" data-bs-toggle="collapse" type="button">
+            GIFT CARDS
+           </button>
+          </h2>
+          <h2 class="desktop-submenu-header d-none d-md-block">
+           GIFT CARDS
+          </h2>
+          <div aria-labelledby="submenu2-item5-header" class="accordion-collapse collapse" data-bs-parent="#submenu2" id="submenu2-item5-content">
+           <div class="accordion-body">
+            <a class="submenu-item-link" href="/catalog/giftcard">
+             Purchase Gift Cards
+            </a>
+            <a class="submenu-item-link" href="/myaccount/redeem">
+             Redeem Gift Cards
+            </a>
+           </div>
+          </div>
+         </div>
+         <div class="accordion-item">
+          <h2 class="accordion-header d-md-none" id="submenu2-item6-header">
+           <button aria-controls="fsubmenu2-item6-content" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#submenu2-item6-content" data-bs-toggle="collapse" type="button">
+            MERCH
+           </button>
+          </h2>
+          <h2 class="submenu-header-link d-none d-md-block">
+           <a class="submenu-callout-link mt-3" href="/gear/apparel">
+            MERCH
+            <i class="fa-solid fa-arrow-right">
+            </i>
+           </a>
+          </h2>
+          <div aria-labelledby="submenu2-item7-header" class="accordion-collapse collapse" data-bs-parent="#submenu2" id="submenu2-item6-content">
+           <div class="accordion-body">
+            <a class="submenu-item-link d-md-none" href="/gear/apparel">
+             All Merch
+            </a>
+            <a class="submenu-item-link" href="/mtg-supplies/merch/backpacks">
+             Backpacks
+            </a>
+            <a class="submenu-item-link" href="/mtg-supplies/merch/enamel-pins">
+             Enamel Pins
+            </a>
+            <a class="submenu-item-link" href="/mtg-supplies/merch/hats">
+             Hats
+            </a>
+            <a class="submenu-item-link" href="/mtg-supplies/merch/jackets">
+             Jackets
+            </a>
+            <a class="submenu-item-link" href="/mtg-supplies/merch/playing-cards">
+             Playing
+Cards
+            </a>
+            <a class="submenu-item-link" href="/mtg-supplies/merch/shirts">
+             Shirts
+            </a>
+           </div>
+          </div>
+         </div>
+         <div class="accordion-item">
+          <h2 class="accordion-header d-md-none" id="submenu2-item7-header">
+           <button aria-controls="fsubmenu2-item7-content" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#submenu2-item7-content" data-bs-toggle="collapse" type="button">
+            PLAYMATS
+           </button>
+          </h2>
+          <h2 class="submenu-header-link d-none d-md-block">
+           <a class="submenu-callout-link mt-3" href="/gear/playmats">
+            PLAYMATS
+            <i class="fa-solid fa-arrow-right">
+            </i>
+           </a>
+          </h2>
+          <div aria-labelledby="submenu2-item7-header" class="accordion-collapse collapse" data-bs-parent="#submenu2" id="submenu2-item7-content">
+           <div class="accordion-body">
+            <a class="submenu-item-link d-md-none" href="/gear/playmats">
+             All Playmats
+            </a>
+            <a class="submenu-item-link" href="/mfg/card-kingdom/playmats">
+             Card Kingdom
+            </a>
+            <a class="submenu-item-link" href="/mfg/inked-playmats/playmats">
+             Inked
+            </a>
+            <a class="submenu-item-link" href="/mfg/ultra-pro/playmats">
+             Ultra Pro
+            </a>
+            <a class="submenu-item-link" href="/mfg/ultimate-guard/playmats">
+             Ultimate Guard
+            </a>
+           </div>
+          </div>
+         </div>
+        </div>
+        <div class="submenu-column d-md-none">
+         <div class="submenu-promospot d-flex d-md-none">
+          <img alt="Command Center V2" class="submenu-promospot-image" height="144" loading="lazy" src="/images/gaming-supplies/playmats/command-center-v2-26599-medium.jpg" width="144"/>
+          <div class="submenu-promospot-right flex-grow-1 bg-light text-center">
+           <div class="submenu-promospot-title text-primary">
+            COMMAND CENTER V2
+           </div>
+           <a class="submenu-callout-button badge rounded-pill text-white px-4 py-1 border border-white border-1 d-inline-block mb-2" href="/mtg-supplies/command-center-v2">
+            BUY
+NOW!
+           </a>
+          </div>
+         </div>
+         <div class="submenu-promospot d-flex d-md-none">
+          <img alt="BoxGods Deckbox - Seer" class="submenu-promospot-image" height="144" loading="lazy" src="/images/gaming-supplies/deck-boxes/boxgods-deckbox-seer-55323.jpg" width="144"/>
+          <div class="submenu-promospot-right flex-grow-1 bg-light text-center">
+           <div class="submenu-promospot-title text-primary">
+            BOXGODS DECKBOX - SEER
+           </div>
+           <a class="submenu-callout-button badge rounded-pill text-white px-4 py-1 border border-white border-1 d-inline-block mb-2" href="/mtg/deck-boxes/boxgods-deckbox-seer">
+            BUY
+NOW!
+           </a>
+          </div>
+         </div>
+        </div>
+        <div class="submenu-column desktop-submenu-promospot text-black d-none d-lg-flex flex-column mb-3">
+         <div class="promospot-block promoSpot">
+          <a data-cktag="mega-menu supplies block1" href="/landing/mtg-supplies">
+           <img alt="Shop Magic Supplies" class="img-fluid" loading="lazy" src="/ckcms/images/2022-09-01-SuppliesLG.jpg"/>
+          </a>
+         </div>
+         <div class="promospot-block promoSpot my-3">
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="submenu desktop-menu-content offcanvas offcanvas-end w-100" id="offcanvasSubmenu3" tabindex="-1">
+       <div class="offcanvas-header d-flex align-items-center bg-ck-blue text-white px-3">
+        <h5 aria-controls="offcanvasNavbar" class="submenu-title my-0" data-bs-target="#offcanvasNavbar" data-bs-toggle="offcanvas">
+         <i class="fa-solid fa-chevron-left">
+         </i>
+         BACK
+        </h5>
+        <i aria-label="Close" class="close-submenu fa-solid fa-xmark fs-2" data-bs-dismiss="offcanvas">
+        </i>
+       </div>
+       <div class="desktop-menu-header bg-ck-blue text-white lh-4 fw-bold text-center d-none d-md-block font-ck-heading fs-ck-2rem">
+        LEARN AND COMMUNITY
+       </div>
+       <div class="mega-menu accordion accordion-flush" id="submenu3">
+        <div class="submenu-column">
+         <div class="accordion-item">
+          <h2 class="accordion-header d-md-none" id="submenu3-item1-header">
+           <button aria-controls="fsubmenu3-item1-content" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#submenu3-item1-content" data-bs-toggle="collapse" type="button">
+            BLOG ARTICLES
+           </button>
+          </h2>
+          <h2 class="submenu-header-link d-none d-md-block">
+           <a class="submenu-callout-link" href="https://blog.cardkingdom.com/" target="_blank">
+            BLOG ARTICLES
+            <i class="fa-solid fa-arrow-up-right-from-square">
+            </i>
+           </a>
+          </h2>
+          <div aria-labelledby="submenu3-item1-header" class="accordion-collapse collapse" data-bs-parent="#submenu3" id="submenu3-item1-content">
+           <div class="accordion-body">
+            <a class="submenu-item-link" href="https://blog.cardkingdom.com/" target="_blank">
+             Our
+Latest
+Articles
+            </a>
+            <a class="submenu-item-link" href="https://blog.cardkingdom.com/new-to-magic/" target="_blank">
+             New
+Player
+Resources
+            </a>
+            <a class="submenu-item-link" href="https://blog.cardkingdom.com" target="_blank">
+             Articles
+by Format
+            </a>
+           </div>
+          </div>
+         </div>
+         <div class="accordion-item">
+          <h2 class="accordion-header d-md-none" id="submenu3-item2-header">
+           <button aria-controls="fsubmenu3-item2-content" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#submenu3-item2-content" data-bs-toggle="collapse" type="button">
+            YOUTUBE VIDEO SERIES
+           </button>
+          </h2>
+          <h2 class="submenu-header-link d-none d-md-block">
+           <a class="submenu-callout-link" href="https://www.youtube.com/c/cardkingdommtg" target="_blank">
+            YOUTUBE VIDEOS
+            <i class="fa-solid fa-arrow-up-right-from-square">
+            </i>
+           </a>
+          </h2>
+          <div aria-labelledby="submenu3-item2-header" class="accordion-collapse collapse" data-bs-parent="#submenu3" id="submenu3-item2-content">
+           <div class="accordion-body">
+            <a class="submenu-item-link" href="https://www.youtube.com/c/CardKingdomMTG/videos" target="_blank">
+             All YouTube
+Videos
+            </a>
+            <a class="submenu-item-link" href="https://www.youtube.com/playlist?list=PLIiMaYFtpNsdHhaPNaNreDqzZMVxoyHE1" target="_blank">
+             What
+IS... ? (MTG Keywords)
+            </a>
+            <a class="submenu-item-link" href="https://www.youtube.com/playlist?list=PLIiMaYFtpNsc0HcASzURpAI1fDUy_81iw" target="_blank">
+             Rookie's
+Guide to MTG Slang
+            </a>
+           </div>
+          </div>
+         </div>
+        </div>
+        <div class="submenu-column">
+         <div class="accordion-item">
+          <h2 class="accordion-header d-md-none" id="submenu3-item3-header">
+           <button aria-controls="fsubmenu3-item3-content" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#submenu3-item3-content" data-bs-toggle="collapse" type="button">
+            CONNECT WITH US
+           </button>
+          </h2>
+          <h2 class="desktop-submenu-header d-none d-md-block">
+           CONNECT WITH US
+          </h2>
+          <div aria-labelledby="submenu3-item3-header" class="accordion-collapse collapse" data-bs-parent="#submenu3" id="submenu3-item3-content">
+           <div class="accordion-body">
+            <a class="submenu-item-link" href="https://twitter.com/Card_Kingdom" target="_blank">
+             Twitter
+            </a>
+            <a class="submenu-item-link" href="https://www.facebook.com/CardKingdom/" target="_blank">
+             Facebook
+            </a>
+            <a class="submenu-item-link" href="https://www.instagram.com/cardkingdom/" target="_blank">
+             Instagram
+            </a>
+            <a class="submenu-item-link" href="https://www.tiktok.com/@cardkingdommtg" target="_blank">
+             TikTok
+             <a class="submenu-item-link" href="https://cardkingdom.attn.tv/p/Klu/landing-page" target="_blank">
+              Subscribe to Email / SMS
+             </a>
+            </a>
+           </div>
+          </div>
+         </div>
+         <div class="accordion-item">
+          <h2 class="accordion-header d-md-none" id="submenu3-item4-header">
+           <button aria-controls="fsubmenu3-item4-content" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#submenu3-item4-content" data-bs-toggle="collapse" type="button">
+            AFFILIATES
+           </button>
+          </h2>
+          <h2 class="desktop-submenu-header d-none d-md-block">
+           AFFILIATES
+          </h2>
+          <div aria-labelledby="submenu3-item4-header" class="accordion-collapse collapse" data-bs-parent="#submenu3" id="submenu3-item4-content">
+           <div class="accordion-body">
+            <a class="submenu-item-link" href="https://www.youtube.com/c/TheCommandZonePodcast" target="_blank">
+             The Command Zone
+            </a>
+            <a class="submenu-item-link" href="https://www.youtube.com/c/LRRMTG" target="_blank">
+             Loading Ready Run
+            </a>
+            <a class="submenu-item-link" href="/landing/tcc-campus-store" target="_blank">
+             Tolarian Community College
+            </a>
+            <a class="submenu-item-link" href="https://www.youtube.com/c/RhysticStudies" target="_blank">
+             Rhystic Studies
+            </a>
+            <a class="submenu-item-link" href="https://www.mtggoldfish.com/" target="_blank">
+             MTGGoldfish
+            </a>
+            <a class="submenu-item-link" href="https://www.youtube.com/playlist?list=PLIiMaYFtpNsfWWrh34Z5JwG740N-F2MuT" target="_blank">
+             NumotTheNummy
+            </a>
+            <a class="submenu-item-link" href="https://www.youtube.com/c/GoodLuckHighFive" target="_blank">
+             Good Luck, High Five
+            </a>
+            <a class="submenu-item-link" href="https://www.youtube.com/c/NizzahonMagic" target="_blank">
+             Nizzahon Magic
+            </a>
+            <a class="submenu-item-link" href="https://www.youtube.com/@NitpickingNerds" target="_blank">
+             Nitpicking Nerds
+            </a>
+           </div>
+          </div>
+         </div>
+        </div>
+        <div class="submenu-column">
+         <div class="accordion-item">
+          <h2 class="accordion-header d-md-none" id="submenu3-item5-header">
+           <button aria-controls="fsubmenu3-item5-content" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#submenu3-item5-content" data-bs-toggle="collapse" type="button">
+            GET HELP
+           </button>
+          </h2>
+          <h2 class="submenu-header-link d-none d-md-block">
+           <a class="submenu-callout-link" href="https://cardkingdom.freshdesk.com/support/home" target="_blank">
+            GET HELP
+            <i class="fa-solid fa-arrow-up-right-from-square">
+            </i>
+           </a>
+          </h2>
+          <div aria-labelledby="submenu3-item5-header" class="accordion-collapse collapse" data-bs-parent="#submenu3" id="submenu3-item5-content">
+           <div class="accordion-body">
+            <a class="submenu-item-link d-md-none" href="https://cardkingdom.freshdesk.com/support/home" target="_blank">
+             Get Help
+            </a>
+            <a class="submenu-item-link" href="https://cardkingdom.freshdesk.com/support/home" target="_blank">
+             FAQ
+            </a>
+            <a class="submenu-item-link" href="https://cardkingdom.freshdesk.com/support/tickets/new" target="_blank">
+             Contact Customer Support
+            </a>
+           </div>
+          </div>
+         </div>
+         <div class="accordion-item">
+          <h2 class="accordion-header d-md-none" id="submenu3-item6-header">
+           <button aria-controls="fsubmenu3-item6-content" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#submenu3-item6-content" data-bs-toggle="collapse" type="button">
+            MOX LOCATIONS
+           </button>
+          </h2>
+          <h2 class="submenu-header-link d-none d-md-block">
+           <a class="submenu-callout-link" href="https://www.moxboardinghouse.com/locations/" target="_blank">
+            MOX LOCATIONS
+            <i class="fa-solid fa-arrow-up-right-from-square">
+            </i>
+           </a>
+          </h2>
+          <div aria-labelledby="submenu3-item6-header" class="accordion-collapse collapse" data-bs-parent="#submenu3" id="submenu3-item6-content">
+           <div class="accordion-body">
+            <a class="submenu-item-link d-md-none" href="https://www.moxboardinghouse.com/locations/" target="_blank">
+             MOX Locations
+            </a>
+            <a class="submenu-item-link" href="https://www.moxboardinghouse.com/shop/best-sellers/" target="_blank">
+             Shop
+            </a>
+            <a class="submenu-item-link" href="https://www.moxboardinghouse.com/dining/" target="_blank">
+             Eat
+            </a>
+            <a class="submenu-item-link" href="https://www.moxboardinghouse.com/events/" target="_blank">
+             Play
+            </a>
+           </div>
+          </div>
+         </div>
+        </div>
+        <div class="submenu-promospot d-flex p-3 d-md-none">
+         <img alt="Sign Up For The Newsletter" class="submenu-promospot-image" height="144" loading="lazy" src="/ckcms/images/2022-09-08-newsletter.jpg" width="144"/>
+         <div class="submenu-promospot-right flex-grow-1 bg-light text-center">
+          <div class="submenu-promospot-title text-primary">
+           Stay Informed About New Releases, Promotions, and Exclusives!
+          </div>
+          <a class="submenu-callout-button badge rounded-pill text-white px-4 py-1 border border-white border-1 d-inline-block mb-2" href="https://cardkingdom.attn.tv/p/Klu/landing-page">
+           Sign Me Up!
+          </a>
+         </div>
+        </div>
+        <div class="desktop-submenu-promospot text-black flex-column mb-3 d-none d-lg-block">
+         <div class="promospot-block promoSpot">
+          <a data-cktag="mega-menu learn-community block1" href="/landing/tcc-campus-store">
+           <img alt="Tolarian Community College Campus Store" class="img-fluid" loading="lazy" src="/ckcms/images/2022-09-01-TCCPromo.jpg"/>
+          </a>
+         </div>
+         <div class="promospot-block promoSpot my-3">
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="submenu desktop-menu-content offcanvas offcanvas-end w-100" id="offcanvasSubmenu4" tabindex="-1">
+       <div class="offcanvas-header d-flex align-items-center bg-ck-blue text-white px-3">
+        <h5 aria-controls="offcanvasNavbar" class="submenu-title my-0" data-bs-target="#offcanvasNavbar" data-bs-toggle="offcanvas">
+         <i class="fa-solid fa-chevron-left">
+         </i>
+         BACK
+        </h5>
+        <i aria-label="Close" class="close-submenu fa-solid fa-xmark fs-2" data-bs-dismiss="offcanvas">
+        </i>
+       </div>
+       <div class="desktop-menu-header bg-ck-blue text-white lh-4 fw-bold text-center d-none d-md-block font-ck-heading fs-ck-2rem">
+        GIFT GUIDE
+       </div>
+       <div class="mega-menu accordion accordion-flush" id="submenu4">
+        <div class="submenu-column">
+         <div class="accordion-item">
+          <h2 class="accordion-header d-md-none" id="submenu4-item2-header">
+           <button aria-controls="submenu4-item2-content" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#submenu4-item2-content" data-bs-toggle="collapse" type="button">
+            GIFT GUIDE
+           </button>
+          </h2>
+          <h2 class="desktop-submenu-header d-none d-md-block">
+           GIFT GUIDE
+          </h2>
+          <div aria-labelledby="submenu4-item2-header" class="accordion-collapse collapse" data-bs-parent="#submenu4" id="submenu4-item2-content">
+           <div class="accordion-body">
+            <a class="submenu-item-link" href="/landing/2023-year-in-magic">
+             2023 Year in Review
+            </a>
+            <a class="submenu-item-link" href="/products/mtg-2023-holiday-gift-guide">
+             2023 Holiday Gift Guide
+            </a>
+           </div>
+          </div>
+         </div>
+        </div>
+        <div class="submenu-column">
+         <div class="accordion-item">
+          <h2 class="accordion-header d-md-none" id="submenu4-item3-header">
+           <button aria-controls="submenu4-item3-content" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#submenu4-item3-content" data-bs-toggle="collapse" type="button">
+            RECOMMENDED GIFTS
+           </button>
+          </h2>
+          <h2 class="desktop-submenu-header d-none d-md-block">
+           RECOMMENDED GIFTS
+          </h2>
+          <div aria-labelledby="submenu4-item3-header" class="accordion-collapse collapse" data-bs-parent="#submenu4" id="submenu4-item3-content">
+           <div class="accordion-body">
+            <a class="submenu-item-link" href="https://blog.cardkingdom.com/the-best-holiday-gifts-for-all-magic-players-2023/" target="_blank">
+             Top Holiday Gifts for All Players
+            </a>
+            <a class="submenu-item-link" href="https://blog.cardkingdom.com/the-best-holiday-gifts-for-commander-players-2023/" target="_blank">
+             Commander Player Gifts
+            </a>
+            <a class="submenu-item-link" href="https://blog.cardkingdom.com/the-best-holiday-gifts-for-new-magic-players-2023/" target="_blank">
+             Gifts for New Players
+            </a>
+            <a class="submenu-item-link" href="https://blog.cardkingdom.com/the-best-holiday-gifts-from-universes-beyond-magic-2023/" target="_blank">
+             Best Universes Beyond Gifts
+            </a>
+           </div>
+          </div>
+         </div>
+        </div>
+        <div class="submenu-column desktop-submenu-promospot text-black d-none d-lg-flex flex-column mb-3">
+         <div class="promospot-block promoSpot">
+          <a data-cktag="mega-menu gift-guide block1" href="/products/mtg-2023-holiday-gift-guide">
+           <img alt="Gift Guide" class="img-fluid" src="/ckcms/images/MegaMenuGiftGuide2022.png"/>
+          </a>
+         </div>
+        </div>
+        <div class="submenu-column desktop-submenu-promospot text-black d-none d-lg-flex flex-column mb-3">
+         <div class="promospot-block promoSpot">
+          <a data-cktag="mega-menu gift-guide block2" href="/products/mtg-lord-of-the-rings-cards" target="_blank">
+           <img alt="The Lord of the Rings: Tales of Middle-earth Holiday Release" class="img-fluid" src="/ckcms/images/Holiday2023_MegaMenu_LTRHoliday.jpg"/>
+          </a>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="submenu offcanvas offcanvas-end w-100" id="offcanvasSubmenu7" tabindex="-1">
+       <div class="offcanvas-header d-flex align-items-center bg-ck-blue text-white px-3">
+        <h5 aria-controls="offcanvasNavbar" class="submenu-title my-0" data-bs-target="#offcanvasNavbar" data-bs-toggle="offcanvas">
+         <i class="fa-solid fa-chevron-left">
+         </i>
+         BACK
+        </h5>
+        <i aria-label="Close" class="close-submenu fa-solid fa-xmark fs-2" data-bs-dismiss="offcanvas">
+        </i>
+       </div>
+       <div id="submenu4">
+        <h2 class="submenu-callout-link" id="submenu4-item1-header">
+         SELL US YOUR CARDS
+        </h2>
+        <div aria-labelledby="submenu4-item1-header" class="px-3" id="submenu4-item1-content">
+         <a class="submenu-item-link" href="/purchasing/how_to_sell">
+          How Selling To Us Works
+         </a>
+         <a class="submenu-item-link" href="/purchasing/mtg_singles">
+          Sell Us Your Singles/Foils
+         </a>
+         <a class="submenu-item-link" href="/purchasing/mtg_sealed">
+          Sell Us Your Sealed/Sets
+         </a>
+         <a class="submenu-item-link" href="/purchasing/sell_collection">
+          Sell Us Your MTG
+Collection
+         </a>
+         <a class="submenu-item-link" href="/purchasing/mtg_bulk">
+          Sell Us Your MTG in Bulk
+         </a>
+         <a class="submenu-item-link" href="/static/csvImport">
+          Import from CSV
+         </a>
+        </div>
+       </div>
+      </div>
+      <div class="submenu offcanvas offcanvas-end w-100" id="offcanvasSubmenu5" tabindex="-1">
+       <div class="offcanvas-header d-flex align-items-center bg-ck-blue text-white px-3">
+        <h5 aria-controls="offcanvasNavbar" class="submenu-title my-0" data-bs-target="#offcanvasNavbar" data-bs-toggle="offcanvas">
+         <i class="fa-solid fa-chevron-left">
+         </i>
+         BACK
+        </h5>
+        <i aria-label="Close" class="close-submenu fa-solid fa-xmark fs-2" data-bs-dismiss="offcanvas">
+        </i>
+       </div>
+       <div class="" id="submenu5">
+        <h2 class="submenu-callout-link" id="submenu5-item1-header">
+         RETAIL LOCATIONS
+        </h2>
+        <div aria-labelledby="submenu5-item1-header" class="px-3" id="submenu5-item1-content">
+         <a class="submenu-item-link" href="https://www.moxboardinghouse.com/locations/" rel="noopener" target="_blank">
+          Seattle
+         </a>
+         <a class="submenu-item-link" href="https://www.moxboardinghouse.com/locations/" rel="noopener" target="_blank">
+          Bellevue
+         </a>
+         <a class="submenu-item-link" href="https://www.moxboardinghouse.com/portland/" rel="noopener" target="_blank">
+          Portland
+         </a>
+        </div>
+       </div>
+      </div>
+      <div class="submenu offcanvas offcanvas-end w-100" id="offcanvasSubmenu6" tabindex="-1">
+       <div class="offcanvas-header d-flex align-items-center bg-ck-blue text-white px-3">
+        <h5 aria-controls="offcanvasNavbar" class="submenu-title my-0" data-bs-target="#offcanvasNavbar" data-bs-toggle="offcanvas">
+         <i class="fa-solid fa-chevron-left">
+         </i>
+         BACK
+        </h5>
+        <i aria-label="Close" class="close-submenu fa-solid fa-xmark fs-2" data-bs-dismiss="offcanvas">
+        </i>
+       </div>
+       <div class="" id="submenu6">
+        <h2 class="submenu-callout-link" id="submenu6-item1-header">
+         CUSTOMER SERVICE
+        </h2>
+        <div class="px-3" id="submenu6-item1-content">
+         <a class="submenu-item-link" href="https://cardkingdom.freshdesk.com/support/tickets/new" target="_blank">
+          Open
+new support ticket
+         </a>
+         <a class="submenu-item-link" href="https://cardkingdom.freshdesk.com/support/tickets" target="_blank">
+          Check
+existing ticket status
+         </a>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class="container mainWrapper full-width">
+    <div class="messages">
+    </div>
+    <div>
+    </div>
+    <the-builder deck-list="">
+    </the-builder>
+   </div>
+   <div class="footer" id="footer" role="contentinfo">
+    <div class="bg-ck-light-blue-gradient">
+     <div class="footer-callout-row page-1920 d-flex flex-column flex-md-row text-center p-5">
+      <div class="footer-callout-section mt-0">
+       <div class="footer-callout-title">
+        FREE SHIPPING
+       </div>
+       <div class="footer-callout-text">
+        Free domestic shipping on singles orders over $50
+       </div>
+       <a class="footer-callout-link" href="https://cardkingdom.freshdesk.com/support/solutions/folders/3000008607" target="_blank">
+        Learn More &gt;
+       </a>
+      </div>
+      <hr class="d-md-none"/>
+      <div class="vr d-none d-md-block mt-3 text-ck-blue">
+      </div>
+      <div class="footer-callout-section mt-0">
+       <div class="footer-callout-title">
+        CUSTOMER SUPPORT
+       </div>
+       <div class="footer-callout-text">
+        Our Customer Support team is always here to help.
+       </div>
+       <a class="footer-callout-link" href="https://cardkingdom.freshdesk.com/support/tickets/new" target="_blank">
+        Submit Support Ticket &gt;
+       </a>
+      </div>
+      <hr class="d-md-none"/>
+      <div class="vr d-none d-md-block mt-3 text-ck-blue">
+      </div>
+      <div class="footer-callout-section mt-0">
+       <div class="footer-callout-title">
+        SIGN-UP FOR EMAIL
+       </div>
+       <div class="footer-callout-text">
+        Be the first to know about new releases, promotions, and exclusives!
+       </div>
+       <a class="footer-callout-link" href="https://cardkingdom.attn.tv/p/Klu/landing-page" target="_blank">
+        Sign me up!
+       </a>
+      </div>
+     </div>
+    </div>
+    <a class="back-to-top-row p-3 text-center d-block" href="#">
+     <div class="carat-up">
+      <i class="fa-solid fa-angle-up">
+      </i>
+     </div>
+     <div class="back-to-top-text font-ck-heading">
+      BACK TO TOP
+     </div>
+    </a>
+    <div class="bg-ck-blue p-5">
+     <div class="footer-link-lists-row page-1920 d-flex flex-wrap flex-column flex-md-row justify-content-between justify-content-xxl-center">
+      <div class="footer-link-list d-flex flex-column pb-4">
+       <div class="footer-link-list-header font-ck-heading fw-semibold text-ck-primary-blue">
+        Customer Support
+       </div>
+       <a class="footer-link-list-link" href="https://cardkingdom.freshdesk.com/support/home">
+        Knowledge Base FAQ
+       </a>
+       <a class="footer-link-list-link" href="https://cardkingdom.freshdesk.com/support/solutions/articles/3000037550-how-are-cards-shipped">
+        Shipping Information
+       </a>
+       <a class="footer-link-list-link" href="https://cardkingdom.freshdesk.com/support/solutions/articles/3000043279-what-is-your-return-policy">
+        Returns
+       </a>
+       <a class="footer-link-list-link" href="https://cardkingdom.freshdesk.com/support/home">
+        Contact Us
+       </a>
+      </div>
+      <div class="footer-link-list d-flex flex-column pb-4">
+       <div class="footer-link-list-header font-ck-heading fw-semibold text-ck-primary-blue">
+        Account Information
+       </div>
+       <a class="footer-link-list-link" href="/myaccount/profile">
+        Profile
+       </a>
+       <a class="footer-link-list-link" href="/myaccount/order_history">
+        Order History
+       </a>
+       <a class="footer-link-list-link" href="/myaccount/selling_history">
+        Selling History
+       </a>
+       <a class="footer-link-list-link" href="/myaccount/wishlist">
+        Wishlist
+       </a>
+      </div>
+      <div class="footer-link-list d-flex flex-column pb-4">
+       <div class="footer-link-list-header font-ck-heading fw-semibold text-ck-primary-blue">
+        MTG Tools
+       </div>
+       <a class="footer-link-list-link" href="/catalog/magic_the_gathering/search">
+        Advanced Search
+       </a>
+       <a class="footer-link-list-link" href="/builder">
+        Deck Builder
+       </a>
+       <a class="footer-link-list-link" href="/purchasing/how_to_sell">
+        Sell Us Your Cards
+       </a>
+       <a class="footer-link-list-link" href="/purchasing/how_to_sell">
+        Grading Guide
+       </a>
+      </div>
+      <div class="footer-link-list d-flex flex-column pb-4">
+       <div class="footer-link-list-header font-ck-heading fw-semibold text-ck-primary-blue">
+        Retail Locations
+       </div>
+       <em>
+        Mox Boarding House
+       </em>
+       <a class="footer-link-list-link" href="https://www.moxboardinghouse.com/seattle/" target="_blank">
+        Seattle, WA
+       </a>
+       <a class="footer-link-list-link" href="https://www.moxboardinghouse.com/bellevue/" target="_blank">
+        Bellevue, WA
+       </a>
+       <a class="footer-link-list-link" href="https://www.moxboardinghouse.com/portland/" target="_blank">
+        Portland, OR
+       </a>
+       <a class="footer-link-list-link" href="https://www.moxboardinghouse.com/mox-is-coming-to-arizona/" target="_blank">
+        Chandler, AZ
+       </a>
+      </div>
+      <div class="footer-link-list d-flex flex-column pb-4">
+       <div class="footer-link-list-header font-ck-heading fw-semibold text-ck-primary-blue">
+        Card Kingdom
+       </div>
+       <a class="footer-link-list-link" href="/static/about">
+        About Us
+       </a>
+       <a class="footer-link-list-link" href="/catalog/giftcard">
+        Gift Cards
+       </a>
+       <a class="footer-link-list-link" href="https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=4e00c4de-a083-4ba9-9a7b-9098aaa719b9&amp;ccId=19000101_000001&amp;type=MP&amp;lang=en_US" target="_blank">
+        Careers
+       </a>
+      </div>
+      <div class="footer-social-row d-flex d-flex flex-column">
+       <div class="footer-link-list-header font-ck-heading fw-semibold text-ck-primary-blue">
+        Get The Latest
+       </div>
+       <div class="d-flex gap-2">
+        <a aria-label="Twitter link" class="twitter footer-social-icon p-1" href="https://twitter.com/Card_Kingdom" target="_blank">
+         <i class="fa-brands fa-twitter circle-icon">
+         </i>
+        </a>
+        <a aria-label="Facebook link" class="facebook p-1" href="https://www.facebook.com/CardKingdom/" target="_blank">
+         <i class="fa-brands fa-facebook-f circle-icon">
+         </i>
+        </a>
+        <a aria-label="Youtube link" class="youtube p-1" href="https://www.youtube.com/c/cardkingdommtg" target="_blank">
+         <i class="fa-brands fa-youtube circle-icon">
+         </i>
+        </a>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="footer-bottom-row bg-ck-blue pt-2 pb-5 px-3 text-center fs-6">
+     <div class="mb-1">
+     </div>
+     <div class="footer-legal-links-row mb-1">
+      <a class="footer-legal-link" href="/static/tos">
+       Terms of Service
+      </a>
+      |
+      <a class="footer-legal-link" href="/static/privacy">
+       Privacy Policy
+      </a>
+      |
+      <a class="footer-legal-link" href="https://cardkingdom.freshdesk.com/support/solutions/articles/3000043279-what-is-your-return-policy">
+       Return Policy
+      </a>
+     </div>
+     <div class="footer-legalese-row">
+      Ⓒ 1999-2024 Card Kingdom and Mox Boarding House. All rights reserved.
+     </div>
+    </div>
+   </div>
+   <cms-promo-spots dataset="promos" selector="lightbox">
+   </cms-promo-spots>
+  </div>
+  <script src="/local/js/app.js?id=7019ef8efeedf8a1a420c75f9849f56c">
+  </script>
+  <script src="/local/js/bootstrap5.min.js?id=7ccd9d390d31af98110f74f842ea9b32">
+  </script>
+  <script src="/local/js/modules.js?id=15ae0eb9936115a4a31041def137b774">
+  </script>
+  <script>
+   const CK_PARTNER = '';
+  </script>
+  <script src="/local/js/deckbuilder.js?id=e1001495b2430e64af25df4406f0df48">
+  </script>
+  <script>
+   document.addEventListener("DOMContentLoaded", function () {
+        $(document).trigger('notify.ck', {
+          message: "",
+          severity: ""
+        });
+      });
+  </script>
+  <script>
+   (function () {
+    function signifydAsyncLoad() {
+      setTimeout(function(){
+        let asyncScript = document.createElement('script');
+        asyncScript.type = 'text/javascript';
+        asyncScript.async = true;
+        asyncScript.src = "https:\/\/cdn-scripts.signifyd.com\/api\/script-tag.js";
+        asyncScript.setAttribute('data-order-session-id', "");
+        asyncScript.id="sig-api";
+        asyncScript.crossorigin="anonymous";
+        var firstScript = document.getElementsByTagName('script')[0];
+        firstScript.parentNode.insertBefore(asyncScript, firstScript);
+      },0);
+    };
+
+    if (window.attachEvent) {
+      window.attachEvent('onload', signifydAsyncLoad);
+    } else {
+      window.addEventListener('load', signifydAsyncLoad, false);
+    }
+  })();
+  </script>
+  <script>
+   (function(){if (!document.body) return;var js = "window['__CF$cv$params']={r:'880466a6aa711834',t:'MTcxNTExODM2Ny44OTAwMDA='};_cpo=document.createElement('script');_cpo.nonce='',_cpo.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js',document.getElementsByTagName('head')[0].appendChild(_cpo);";var _0xh = document.createElement('iframe');_0xh.height = 1;_0xh.width = 1;_0xh.style.position = 'absolute';_0xh.style.top = 0;_0xh.style.left = 0;_0xh.style.border = 'none';_0xh.style.visibility = 'hidden';document.body.appendChild(_0xh);function handler() {var _0xi = _0xh.contentDocument || _0xh.contentWindow.document;if (_0xi) {var _0xj = _0xi.createElement('script');_0xj.innerHTML = js;_0xi.getElementsByTagName('head')[0].appendChild(_0xj);}}if (document.readyState !== 'loading') {handler();} else if (window.addEventListener) {document.addEventListener('DOMContentLoaded', handler);} else {var prev = document.onreadystatechange || function () {};document.onreadystatechange = function (e) {prev(e);if (document.readyState !== 'loading') {document.onreadystatechange = prev;handler();}};}})();
+  </script>
+ </body>
+</html>
