@@ -1,7 +1,7 @@
 from card_kingdom_finder import cardkingdom_finder
 from gui import gui_maker
 
-input_data = "input_card_data.txt"
+input_data = "../data/input_card_data.txt"
 
 
 def main():
